@@ -13,8 +13,6 @@ The morning began at **8:30 AM** in the serene premises of the *Gurdwara Sahib* 
 
 > **Observation:** The structure of the *Gurdwara Sahib* closely resembles a ship, symbolically carrying us into a new voyage of learning.  
 
-![](images/WhatsApp Image 2025-08-08 at 10.46.11 PM (1).jpeg)
-
 After tea, the formal induction program commenced in the auditorium. The hosts reminded us that this was our first day of college life — a milestone that would shape, challenge, guide, and empower us for the next four years. This year also holds special significance as **GNDEC celebrates its Platinum Jubilee**, marking 70 years of academic excellence.  
 
 ### Key Sessions and Addresses  
