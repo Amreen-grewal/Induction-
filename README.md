@@ -54,3 +54,14 @@ After tea, the formal induction program commenced in the auditorium. The hosts r
 - Faculty from the **Training and Placement Department** briefed us on the placement structure, skill requirements, and preparation strategies.  
 
 - The **heads of the CSI and Data Science Society** outlined upcoming events, competitions, and workshops aimed at enhancing both technical and soft skills.
+
+## Day 2 – 1st August 2025
+
+The second day of the induction program began with two proficiency tests — first **English**, followed by **Mathematics**.
+
+After the tests, we gathered in the **auditorium**, where:
+
+- Faculty members demonstrated the **college academic portal**, highlighting features for tracking attendance, viewing marks, and accessing academic resources.  
+- **Buddy4Study** representatives introduced the **Satya Scholarship Program**, detailing eligibility requirements and guiding us through the application process.  
+- **Dr. Arashdeep Singh** delivered an insightful session titled **“Food: A Pivotal Role in Student’s Overall Wellness”**, addressing common food myths and emphasising the connection between healthy eating, concentration, and sustained energy.  
+- The **Causmic Club** initiated its induction activities, helping students set up **GitHub accounts** and demonstrating how to compile and submit the **induction report**.
