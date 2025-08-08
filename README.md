@@ -19,16 +19,16 @@ After tea, the formal induction program commenced in the auditorium. The hosts r
 
 - **Mr. Harsimran Singh Jaggi (Professor)** – Introduced the rich legacy of GNDEC, established in 1956 under the *Nankana Sahib Education Trust*, with 70% of its students coming from rural backgrounds. The college was inaugurated on **8 April 1956** by **Dr. Rajendra Prasad**, the first President of India.  
 - **Alumni Video Messages:**  
-  - **Mr. Sangam Arora** (CSE topper, 2021–2025) – Urged students to use time wisely, take every opportunity, and transform experiences into skills, especially teamwork and communication.  
+  - **Mr. Sangham Arora** (CSE topper, 2021–2025) – Urged students to use time wisely, take every opportunity, and transform experiences into skills, especially teamwork and communication.  
   - **Mr. Arshpreet Singh** (IT topper, now at Airtel) – Spoke about maintaining balance, focusing on skills, and never underestimating oneself.  
 - **Dr. Harpreet Kaur Grewal (HOD, Applied Sciences)** – Welcomed the batch, describing life as a *“continuous function”* where independent thinking leads to a meaningful existence. Encouraged giving back to society, viewing the first year as a bridge between school and engineering, and following her **5 Ps** for placement: *Passion, Patience, Persistence, Perseverance,* and *Prayer*.  
 - **Dr. Akshay Giddar (Dean Academics)** – Introduced the concept of a *“T-shaped engineer”*: depth in one area with breadth in others, including communication, teamwork, and practical skills. Urged curiosity, a balance between curriculum and co-curriculars, and continuous learning.  
 - **Student Voice – Harleen Kaur Grewal (first-year student)** – Delivered a short but inspiring speech filled with hope, faith, and determination.  
 - **Dr. Parminder Singh (Dean Student Welfare)** – Emphasised that there is no substitute for hard work and that persistence, coupled with God’s grace, leads to success.  
 - **Dr. Sehijpal Singh (Principal)** – Spoke about the influence of CSE and IT in shaping the future, stressing the need to distinguish ourselves with skills and seize the opportunities the college offers.  
-- **Shri Ravindra Garg (Chief Engineer, MC Ludhiana)** – Highlighted honesty and hard work as the foundation for a bright future.  
+- **Shri Ravinder Garg (Chief Engineer, MC Ludhiana)** – Highlighted honesty and hard work as the foundation for a bright future.  
 - **KS Mann (Cultural Head)** – Motivated students to be happy wherever they are while working hard.  
-- **Shri Ashok Singla (Financial Advisor)** – Gave practical insights on financial literacy and introduced the **Vidya Lakshmi Education Loan Scheme**, making students aware of its benefits.  
+- **Ashok Singla (Financial Advisor)** – Gave practical insights on financial literacy and introduced the **Vidya Lakshmi Education Loan Scheme**, making students aware of its benefits.  
 - **Mr. Rakesh Kumar (ADC Ludhiana, alumnus 1991 batch)** – Encouraged excelling in chosen fields, warned against shortcuts, and emphasised working diligently in one’s own domain.  
 
 ### Departmental Orientation – CSE  
@@ -46,9 +46,9 @@ The second day of the induction program began with two proficiency tests — fir
 
 After the tests, we gathered in the **auditorium**, where:  
 
-- Faculty members demonstrated the **college academic portal**, highlighting features for tracking attendance, viewing marks, and accessing academic resources.  
+- Faculty members demonstrated the **college academic portal**, highlighting its features.
 - **Buddy4Study** representatives introduced the **Satya Scholarship Program**, detailing eligibility requirements and guiding us through the application process.  
-- **Dr. Arashdeep Singh** delivered an insightful session titled *“Food: A Pivotal Role in Student’s Overall Wellness”*, addressing common food myths and emphasising the connection between healthy eating, concentration, and sustained energy.  
+- **Dr. Arshdeep Singh** delivered an insightful session titled *“Food: A Pivotal Role in Student’s Overall Wellness”*, addressing common food myths and emphasising the connection between healthy eating, concentration, and sustained energy.  
 - The **Causmic Club** initiated its induction activities, helping students set up **GitHub accounts** and demonstrating how to compile and submit the **induction report**.  
 
 ---
@@ -247,7 +247,7 @@ We began the day in the auditorium.
 After the break, lectures resumed:
 
 - **BEEE** – Covered the basics of the first chapter.
-- **Interaction with seniors** – Seniors invited us to a separate room where we gave introductions one by one. The time was filled with laughter, conversations, practical advice, and even some singing, making it a memorable experience.
+- **Interaction with seniors** – An interactive session with seniors was conducted. Students were called one by one for introductions. The time was filled with laughter, conversations, practical advice, and even some singing, making it a memorable experience.
 
 
 ## Day 8 – August 8
