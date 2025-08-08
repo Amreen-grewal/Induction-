@@ -107,3 +107,16 @@ The fourth day of the Induction Program began with two subject-oriented lectures
 ## Day 5 – 5th August 2025
 
 The fifth day of the Induction Program was lighter in schedule compared to the previous days. The primary activity for the day was the **ID card formation process** for our section — an important milestone in college life, marking the formal integration of students into the institution. The process involved verification of personal details, capturing photographs, and ensuring accuracy for official use.
+
+## Day 6 — August 6
+
+The sixth day began with classroom lectures, followed by an auditorium session.
+
+### Classroom sessions
+- **Chemistry with Professor Karan Bhalla** — He provided an overview of the semester’s mark distribution, course requirements, and academic expectations. He then outlined the syllabus and gave a brief overview of the first chapter in an engaging, approachable way.  
+- **English with Professor Nisha** — Students were invited to come to the front and share their self-introduction with the class. The exercise was slightly nerve-wracking but helped boost confidence from the very start.  
+
+### Auditorium session
+- **Mr. Gurcharan Singh Garewal** encouraged students to spend their four years with dedication, sharing the college’s legacy and his personal experiences.  
+- **Dr. Lakhvir Singh Khanna**, in-charge of the **Centre of Multifaceted Learning (CML)**, presented the centre and explained the **SWAYAM** platform, guiding us step-by-step through the enrollment process.  
+- **Dr. Arvind Dhingra**, Director of STEP and in-charge of TAC, conducted a short energizing activity before the day concluded.
