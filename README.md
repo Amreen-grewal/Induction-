@@ -66,3 +66,18 @@ After the tests, we gathered in the **auditorium**, where:
 - **Buddy4Study** representatives introduced the **Satya Scholarship Program**, detailing eligibility requirements and guiding us through the application process.  
 - **Dr. Arashdeep Singh** delivered an insightful session titled **“Food: A Pivotal Role in Student’s Overall Wellness”**, addressing common food myths and emphasising the connection between healthy eating, concentration, and sustained energy.  
 - The **Causmic Club** initiated its induction activities, helping students set up **GitHub accounts** and demonstrating how to compile and submit the **induction report**.
+
+## Day 3 – 2nd August 2025
+
+The third day of the Induction Program was entirely spent in the auditorium, featuring two key sessions that beautifully blended science, values, and personal reflection.
+
+- **Expert Lecture by Dr. Jaswinder Singh (Shiksha Ratan)** – Delivered an engaging session on the deep connection between mathematics, science, and life. He began with the *sakhi* from Guru Nanak Dev Ji’s childhood, where learning the number “1” became a spiritual realisation of “Ek Onkar.” He explained that the three components of the *Ek Onkar* symbol represent the Creator (Generator), Preserver (Operator), and Destroyer.  
+  He then demonstrated how vibrations travel by showing their speed in a practical way, linking it to how attentive and responsive students should be in class. Using utensils, he produced different sounds by holding them from various points, illustrating how guidance (the “hold” of a Guru) shapes what we produce in life. Overall, he intertwined science and mathematics with elements of faith, making the lecture memorable and thought-provoking.
+
+- **Honouring Ceremony** – Sardar Gurcharan Singh Grewal, the Chief Guest, honoured Dr. Jaswinder Singh for his impactful lecture.
+
+- **Session on Universal Human Values by Dr. Priyadarshini** – Focused on the ultimate goal of life being happiness. She explained that to achieve lasting happiness, a person must have:  
+  1. Right Understanding  
+  2. Right Relationships  
+  3. Physical Facilities  
+  The lecture encouraged self-reflection, leaving many students with fresh perspectives on their own goals and priorities.
