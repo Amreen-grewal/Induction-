@@ -81,3 +81,24 @@ The third day of the Induction Program was entirely spent in the auditorium, fea
   2. Right Relationships  
   3. Physical Facilities  
   The lecture encouraged self-reflection, leaving many students with fresh perspectives on their own goals and priorities.
+
+## Day 4 – 4th August 2025
+
+The fourth day of the Induction Program began with two subject-oriented lectures in the classrooms, followed by interactive and reflective sessions in the auditorium.
+
+- **P2P Lecture on PPS (Programming for Problem Solving)** – A peer-to-peer session conducted by two seniors, introducing the basics of C++. It provided an overview of foundational concepts and aimed to make students comfortable with programming logic.
+
+- **BEEE Lecture by Prof. Harminder Kaur** – An introductory session to the subject of Basic Electrical and Electronics Engineering. Prof. Harminder Kaur also interacted with students individually by taking their introductions.
+
+### Auditorium Sessions
+- **Universal Human Values Session by Dr. Priyadarshini** – A longer and more detailed continuation of her earlier lecture. She touched upon the **process of self-exploration**, with the proposal being *mutual happiness* and *prosperity*. Two important approaches were explained:  
+  1. **Natural Acceptance** – An inherent understanding of what is right for all humans.  
+  2. **Experiential Validation** – Observing and verifying through our interactions with humans and nature.  
+
+  She elaborated on the concept of **happiness**, describing it as a feeling of relatedness and harmony in line with natural acceptance. She also distinguished between *happiness* and *excitement*: while excitement is temporary and subjective, happiness is universal and constant. Continued pursuit of excitement can dull its effect over time, leading to indulgence, which may connect to depression and eventually escapism.  
+
+  The lecture concluded with the important distinction between the **self** and the **body**, and the differing needs of each.
+
+- **Introduction to Cosmic Club** – The club responsible for organizing the Induction Program introduced themselves, their activities, and their broader role in the college. They also mentioned that recruitment opportunities would be announced soon.
+
+- **Laptop Guidance Session by Seniors** – Seniors shared practical advice on selecting laptops suitable for academic use, discussing features aligned with students’ requirements in engineering studies.
