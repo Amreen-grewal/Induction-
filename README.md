@@ -133,3 +133,11 @@ After the break, lectures resumed:
 
 - **BEEE** – Covered the basics of the first chapter.
 - **Interaction with seniors** – Seniors invited us to a separate room where we gave introductions one by one. The time was filled with laughter, conversations, practical advice, and even some singing, making it a memorable experience.
+
+
+## Day 8 – August 8
+
+The day began with two engaging classroom sessions.
+
+- **Session with Mrs. Shaffy Makkar** – Gave a lecture on *Millets – the superfoods*, explaining their benefits, various types, and correct cooking methods. For those interested in incorporating millets into their diet, the session was especially beneficial.
+- **Session with Dr. Gagandeep Kaur Lotpey (Mathematics)** – Conducted an introductory mathematics session, challenging some common assumptions—like zero being the center of the number line—making it both thought-provoking and insightful.
