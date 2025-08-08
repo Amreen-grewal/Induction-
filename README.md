@@ -117,6 +117,19 @@ The sixth day began with classroom lectures, followed by an auditorium session.
 - **English with Professor Nisha** — Students were invited to come to the front and share their self-introduction with the class. The exercise was slightly nerve-wracking but helped boost confidence from the very start.  
 
 ### Auditorium session
-- **Mr. Gurcharan Singh Garewal** encouraged students to spend their four years with dedication, sharing the college’s legacy and his personal experiences.  
+- **Mr. Gurcharan Singh Grewal** encouraged students to spend their four years with dedication, sharing the college’s legacy and his personal experiences.  
 - **Dr. Lakhvir Singh Khanna**, in-charge of the **Centre of Multifaceted Learning (CML)**, presented the centre and explained the **SWAYAM** platform, guiding us step-by-step through the enrollment process.  
 - **Dr. Arvind Dhingra**, Director of STEP and in-charge of TAC, conducted a short energizing activity before the day concluded.
+
+## Day 7 – August 7
+
+We began the day in the auditorium.
+
+- **Session with Dr. Parminder Singh (Dean, Student Welfare)** – Provided an overview of the college facilities, explained the use of various college websites, and introduced the existing clubs and societies.
+- **Session with Dr. Amit Kamra (In-charge, Digital Marketing Club)** – Introduced the club’s purpose and functioning, showcased member-created videos and written content, and encouraged students to join the upcoming recruitment drive.
+- **Session with Dr. Randhir Singh** – Briefed us on the conduct of examinations, including schedules, marking schemes, rules and regulations, and situations that could lead to detention.
+
+After the break, lectures resumed:
+
+- **BEEE** – Covered the basics of the first chapter.
+- **Interaction with seniors** – Seniors invited us to a separate room where we gave introductions one by one. The time was filled with laughter, conversations, practical advice, and even some singing, making it a memorable experience.
