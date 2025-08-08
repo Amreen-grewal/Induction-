@@ -102,3 +102,8 @@ The fourth day of the Induction Program began with two subject-oriented lectures
 - **Introduction to Cosmic Club** – The club responsible for organizing the Induction Program introduced themselves, their activities, and their broader role in the college. They also mentioned that recruitment opportunities would be announced soon.
 
 - **Laptop Guidance Session by Seniors** – Seniors shared practical advice on selecting laptops suitable for academic use, discussing features aligned with students’ requirements in engineering studies.
+
+
+## Day 5 – 5th August 2025
+
+The fifth day of the Induction Program was lighter in schedule compared to the previous days. The primary activity for the day was the **ID card formation process** for our section — an important milestone in college life, marking the formal integration of students into the institution. The process involved verification of personal details, capturing photographs, and ensuring accuracy for official use.
